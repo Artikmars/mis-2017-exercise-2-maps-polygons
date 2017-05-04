@@ -1,0 +1,7 @@
+http://stackoverflow.com/questions/22814490/how-to-save-a-marker-onmapclick
+
+http://stackoverflow.com/questions/35868807/saving-google-map-markers-into-sharedpreferences-in-android-studios
+
+http://stackoverflow.com/questions/28838287/calculate-the-area-of-a-polygon-drawn-on-google-maps-in-an-android-application
+
+http://stackoverflow.com/questions/9752334/calculate-centroid-of-android-graphics-path-values-and-find-the-centroids-rela
